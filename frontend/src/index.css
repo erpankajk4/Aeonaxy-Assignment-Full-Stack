@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+:root {
+  orangebrown: #886318;
+  orangebrownlight: #c1943b;
+}
+
+input {
+  background-color: #feeeee;
+  border-radius: 5px;
+  padding: 0.75rem;
+}
+
+@layer utilities {
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+}
