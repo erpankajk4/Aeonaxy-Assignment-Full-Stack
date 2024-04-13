@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "backend/*.js",
+      "src": "backend/index.js",
       "use": "@vercel/node"
     },
     {
@@ -17,8 +17,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/frontend/dist/$1",
-      "status": 200
+      "dest": "/frontend/dist/$1"
     }
   ]
 }
