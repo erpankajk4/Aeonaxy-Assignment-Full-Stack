@@ -1,4 +1,5 @@
 # MERN Full Stack Assignment given by Aeonaxy Technologies Private Limited
+![Screenshot 2024-04-16 231326](https://github.com/erpankajk4/Aeonaxy-Assignment-Full-Stack/assets/118353291/4d7eb207-b5dd-4843-9bd3-b2cda3716fe4)
 
 ## Deployed link- 
 https://aeonaxy-assignment-full-stack-1.onrender.com
