@@ -34,7 +34,7 @@ Note: Page reloads may take up to 20 seconds as free deployment
 - Scalable, organized folder structure.
 - Efficient state management with Redux.
 - Persistent user sessions across reloads.
-- a scalable, well-organized folder structure for easy maintenance and future development.
+- Live conversation updates with bell sound because of sockets
 
 ## Setup
 To set up the project, follow these steps:
