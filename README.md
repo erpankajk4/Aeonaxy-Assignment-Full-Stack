@@ -1,5 +1,4 @@
 # MERN Full Stack Assignment given by Aeonaxy Technologies Private Limited
-![Screenshot 2024-04-16 231326](https://github.com/erpankajk4/Aeonaxy-Assignment-Full-Stack/assets/118353291/4d7eb207-b5dd-4843-9bd3-b2cda3716fe4)
 
 ## Deployed link- 
 https://aeonaxy-assignment-full-stack-1.onrender.com
@@ -34,7 +33,7 @@ Note: Page reloads may take up to 20 seconds as free deployment
 - Scalable, organized folder structure.
 - Efficient state management with Redux.
 - Persistent user sessions across reloads.
-- Live conversation updates with bell sound because of sockets
+- a scalable, well-organized folder structure for easy maintenance and future development.
 
 ## Setup
 To set up the project, follow these steps:
